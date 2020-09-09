@@ -1,1 +1,3 @@
-app web CRUD en php y dashboard 
+app web CRUD en php y dashboard utilizando MVC
+
+ 
